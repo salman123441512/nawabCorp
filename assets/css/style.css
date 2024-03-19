@@ -531,7 +531,7 @@ section {
 }
 
 .about .image {
-  background: url("../img/about.jpg") center center no-repeat;
+  background: url("../img/home/about.jpg") center center no-repeat;
   background-size: cover;
   min-height: 400px;
 }
@@ -1088,7 +1088,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: url("../img/footer-bg.jpg") center center no-repeat;
+  background: url("../img/home/footer-bg.jpg") center center no-repeat;
   color: #fff;
   font-size: 14px;
   position: relative;
